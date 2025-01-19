@@ -12,8 +12,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJza2hsazZlM3ByOGdzazNsdHZraGF0ZmxiMjloazFqb3BhdTY2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  />
 
 ###
@@ -100,6 +98,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/BiankaJS/BiankaJS/output/snake.svg" alt="Snake animation" />
 
