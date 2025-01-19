@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJza2hsazZlM3ByOGdzazNsdHZraGF0ZmxiMjloazFqb3BhdTY2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJza2hsazZlM3ByOGdzazNsdHZraGF0ZmxiMjloazFqb3BhdTY2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"  />
 
 ###
 
@@ -96,11 +96,5 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BiankaJS/BiankaJS/output/snake.svg" alt="Snake animation" />
 
 ###
